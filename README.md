@@ -2,6 +2,8 @@
 
 ## Google colab link: https://drive.google.com/file/d/1boqXMK9G2C_ZgGBa72NXdV-rN4oQpmKP/view?usp=drive_link
 
+## Model Link: https://drive.google.com/drive/folders/1dtUobXWtuUS6aPkx_Qf7FwRxE9OIXcuS?usp=sharing
+
 
 ## A. Model Performance
 
